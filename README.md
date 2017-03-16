@@ -127,3 +127,20 @@ Un client vous envoyer des emails automatiquement depuis son site web (contact, 
 .Trouvez un screenshot de la première version de Facebook
 >* http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
 
+.Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+>*http://www.zdnet.fr/actualites/chiffres-cles-les-systemes-d-exploitation-sur-pc-39790131.htm
+
+. Qu'est-ce que le load balancing ?
+>* - Une solution informatique adapter au petit budget
+>* source:https://www.promosoft.fr/quest-ce-que-le-load-balancing/
+
+. Qu’est-ce que l’Open Source ?
+>* -Un logiciel libre de droit
+
+.Qu’est-ce que le Bug Bounty ?
+>* une récompense qu'une société offre à  tous ceux qui trouvent des failles de sécurité dans un périmètre donné.
+>* https://korben.info/longform/le-business-du-bug-bounty.html
+
+.Qu'est-ce qu'une adresse IP v4 ?
+>* IPv4 (Internet Protocol version 4) est la première version d'Internet Protocol
+>* source: https://fr.wikipedia.org/wiki/IPv4
