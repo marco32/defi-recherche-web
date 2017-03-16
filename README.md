@@ -39,3 +39,9 @@ source:https://fr.wikipedia.org/wiki/Steve_Wozniak
 --D'où vient l'expression "bug informatique" ?
 	-Elle vient d'un choc thermique provoquait par des insectes qui crées un dysfonctionnement de la machine.
 source: https://sites.google.com/site/lebuginformtiues/origine
+
+--Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+	- GDG Toulouse, prochain event ce soir
+source:https://www.meetup.com/fr-FR/GDG-Toulouse/?scroll=true
+	-La cantine, prochain event ce soir aussi
+source:http://lacantine-toulouse.org/7703/after-work-happy-health
