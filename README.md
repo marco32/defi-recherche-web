@@ -66,7 +66,8 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 ..*-C'est un programmeur,initiateur du mouvement du logiciel libre et lance le projet GNU.
 ..*source: https://fr.wikipedia.org/wiki/Richard_Stallman
 
-.Comment fonctionnent les bang de Duck Duck Go ?
+.Comment fonctionnent les bang de Duck Duck Go ?  
+
 ..*-permet d'effectuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang
 ..*source:https://fr.wikipedia.org/wiki/DuckDuckGo#.21Bang
 
@@ -86,3 +87,17 @@ Quels sont ses plus grands développements ?
 .Combien coûte un nom de domaine ?
 ..*-Moins de 1$ suivant les sites.
 ..*source:http://www.top10hebergeurs.com/guide/hebergement-web/le-vrai-cout-dun-nom-de-domaine/
+
+.Quels sont les différents services d'emailing disponibles ?
+Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+..*-Les newsletters, emailing transactionnel (emails d’inscription, de confirmation, de facturation etc.) et les emails scénarisés.
+..*-J'opterais pour SendinBlue car il propose les trois services reunis.
+..*source: https://www.lafabriquedunet.fr/email-marketing/articles/choisir-logiciel-emailing/
+
+  
+.*Quelle est votre adress IP actuelle ?
+..*-mon adresse IP est : 89.87.134.88
+..*source: http://www.mon-ip.com/
+
+.
+
