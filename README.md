@@ -77,3 +77,9 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 .Qu’est-ce qu’une attaque “brute force” ?
 ..*-Une methode pour passer les mots de passe ou clé en testant toutes les combinaisons possible.
 ..*source:https://fr.wikipedia.org/wiki/Attaque_par_force_brute
+
+.Qui est Linus Torvalds ?
+Quels sont ses plus grands développements ?
+..*-C'est le fondateur de linux
+..*source:http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html
+
