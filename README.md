@@ -84,7 +84,7 @@ Quels sont ses plus grands développements ?
 ..* source:http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html
 
 . Combien coûte un nom de domaine ?
-..* -Moins de 1$ suivant les sites.
+..>* -Moins de 1$ suivant les sites.
 ..* source:http://www.top10hebergeurs.com/guide/hebergement-web/le-vrai-cout-dun-nom-de-domaine/
 
 . Quels sont les différents services d'emailing disponibles ?
@@ -105,3 +105,5 @@ Un client vous envoyer des emails automatiquement depuis son site web (contact, 
 ..* -C'est un modele conceptuel de gestion de projet.
 ..* source:http://www.supinfo.com/articles/single/795-cycle-v
 
+. Les Hackers sont-ils des hors-la-loi ?
+>* Non
