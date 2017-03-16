@@ -25,7 +25,7 @@
 source: https://fr.wikipedia.org/wiki/Creative_Commons
 
 .Qui est Grace Hopper ?
-..*	-C'est l'inventeur du premier complateur.
+..*	-C'est l'inventeur du premier compilateur.
 ..*source:http://www.ada-online.org/frada/spip93a3.html?article100
 
 .Qu'est-ce que Qwant ?
@@ -65,3 +65,7 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 .Qui est Richard Stallman ?
 ..*-C'est un programmeur et l'initiateur du mouvement du logiciel libre.
 ..*source: https://fr.wikipedia.org/wiki/Richard_Stallman
+
+.Comment fonctionnent les bang de Duck Duck Go ?
+..*-permet d'effectuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang
+..*source:https://fr.wikipedia.org/wiki/DuckDuckGo#.21Bang
