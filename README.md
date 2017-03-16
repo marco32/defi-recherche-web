@@ -83,3 +83,6 @@ Quels sont ses plus grands développements ?
 ..*-C'est le fondateur de linux
 ..*source:http://www.linux-france.org/article/these/guide_linux/02_chapitre_03_section.html
 
+.Combien coûte un nom de domaine ?
+..*-Moins de 1$ suivant les sites.
+..*source:http://www.top10hebergeurs.com/guide/hebergement-web/le-vrai-cout-dun-nom-de-domaine/
