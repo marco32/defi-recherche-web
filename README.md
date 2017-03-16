@@ -144,3 +144,9 @@ Un client vous envoyer des emails automatiquement depuis son site web (contact, 
 .Qu'est-ce qu'une adresse IP v4 ?
 >* IPv4 (Internet Protocol version 4) est la première version d'Internet Protocol
 >* source: https://fr.wikipedia.org/wiki/IPv4
+
+.Pourquoi parle-t-on aussi d'adresse IP v6 ?
+>* - les adresses passe en 128bit au lieu de 32bit sous IPV4
+
+. Combien coûte un serveur pour héberger mon site perso ?
+>* -3€
