@@ -31,3 +31,7 @@ source:http://www.ada-online.org/frada/spip93a3.html?article100
 --Qu'est-ce que Qwant ?
 	-C'est un moteur de recherche developpe par une entreprise française.
 source:http://www.lemonde.fr/pixels/article/2016/06/22/qwant-le-petit-moteur-de-recherche-anonyme-qui-monte_4955968_4408996.html
+
+--Qui est Steve Wozniak ?
+	- Informaticien et Co-Fondateur de Apple Computer.
+source:https://fr.wikipedia.org/wiki/Steve_Wozniak
