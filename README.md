@@ -19,3 +19,7 @@ source: https://en.wikipedia.org/wiki/Communications_protocol
 --Que sont le copyright et le copyleft ?
 	- Se sont des droits d'auteurs avec des fonctions differentes.
 source:https://fr.wikipedia.org/wiki/Copyleft
+
+--Que sont les Creatives Commons ?
+	-C'est une organisation qui permet de lever les droits de la propriete intellectuelle.
+source: https://fr.wikipedia.org/wiki/Creative_Commons
