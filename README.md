@@ -53,3 +53,11 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 .Qui est Aaron Swartz ?
 ..* -C'est le créateur de Markdown
 ..*source:https://fr.wikipedia.org/wiki/Aaron_Swartz#Hommage_et_distinction
+
+.Qu’est-ce que le projet GNU ?
+..* -Créer un système d'exploitation complet avec des logiciel libres.
+..*source:https://fsfe.org/freesoftware/basics/gnuproject.fr.html
+
+.Quelles sont les différences entre le Http et le Https ?
+..* -Le "s" de Https signifie un rajout de protocole SSL a Http.
+..*source:http://www.culture-informatique.net/cest-quoi-difference-http-https/
