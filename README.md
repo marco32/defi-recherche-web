@@ -23,3 +23,7 @@ source:https://fr.wikipedia.org/wiki/Copyleft
 --Que sont les Creatives Commons ?
 	-C'est une organisation qui permet de lever les droits de la propriete intellectuelle.
 source: https://fr.wikipedia.org/wiki/Creative_Commons
+
+--Qui est Grace Hopper ?
+	-C'est l'inventeur du premier complateur.
+source:http://www.ada-online.org/frada/spip93a3.html?article100
