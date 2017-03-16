@@ -63,9 +63,13 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 ..*source:http://www.culture-informatique.net/cest-quoi-difference-http-https/
 
 .Qui est Richard Stallman ?
-..*-C'est un programmeur et l'initiateur du mouvement du logiciel libre.
+..*-C'est un programmeur,initiateur du mouvement du logiciel libre et lance le projet GNU.
 ..*source: https://fr.wikipedia.org/wiki/Richard_Stallman
 
 .Comment fonctionnent les bang de Duck Duck Go ?
 ..*-permet d'effectuer des requêtes redirigeant vers d'autres moteurs de recherche ou sites en tapant la commande correspondante appelé !bang
 ..*source:https://fr.wikipedia.org/wiki/DuckDuckGo#.21Bang
+
+.Qui est Marissa Mayer ?
+..*-C'est une informaticienne qui à était vice-presidente de Google et l'ancienne PDG de Yahoo
+..*source: https://fr.wikipedia.org/wiki/Marissa_Mayer
