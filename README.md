@@ -115,3 +115,13 @@ Un client vous envoyer des emails automatiquement depuis son site web (contact, 
 .Qui est Margaret Hamilton ?
 >* -Elle a conçut le système embarqué du programme Apollo
 >* source:https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
+
+. Retrouvez le code source de la mission Apollo 11.
+. Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+>* https://github.com/chrislgarry/Apollo-11
+
+.Qu’est-ce que Agile Manifesto ?
+>* Le manifeste Agile contient l'essence et la philosophie de l'approche en question. Il illustre à lui seul le changement culturel profond qui est en jeu.
+>* source: http://www.agiliste.fr/introduction-methodes-agiles/#Le-Manifeste-Agile-un-changement-culturel
+
+.
