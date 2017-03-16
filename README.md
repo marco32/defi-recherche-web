@@ -15,3 +15,7 @@ source: http://www.computerhistory.org/revolution/networking/19/314
 127.0.0.1
 	-Se sont differentes adresses de protocole internet qui sont utiliser par le protocole reseau.
 source: https://en.wikipedia.org/wiki/Communications_protocol
+
+--Que sont le copyright et le copyleft ?
+	- Se sont des droits d'auteurs avec des fonctions differentes.
+source:https://fr.wikipedia.org/wiki/Copyleft
