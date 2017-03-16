@@ -73,3 +73,7 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 .Qui est Marissa Mayer ?
 ..*-C'est une informaticienne qui à était vice-presidente de Google et l'ancienne PDG de Yahoo
 ..*source: https://fr.wikipedia.org/wiki/Marissa_Mayer
+
+.Qu’est-ce qu’une attaque “brute force” ?
+..*-Une methode pour passer les mots de passe ou clé en testant toutes les combinaisons possible.
+..*source:https://fr.wikipedia.org/wiki/Attaque_par_force_brute
