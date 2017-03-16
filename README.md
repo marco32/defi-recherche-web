@@ -50,3 +50,6 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 ..*	-Se soir Android Things & Devops Android.
 ..*source: //www.meetup.com/fr-FR/GDG-Toulouse/?scroll=true
 
+.Qui est Aaron Swartz ?
+..* -C'est le créateur de Markdown
+..*source:https://fr.wikipedia.org/wiki/Aaron_Swartz#Hommage_et_distinction
