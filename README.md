@@ -35,3 +35,7 @@ source:http://www.lemonde.fr/pixels/article/2016/06/22/qwant-le-petit-moteur-de-
 --Qui est Steve Wozniak ?
 	- Informaticien et Co-Fondateur de Apple Computer.
 source:https://fr.wikipedia.org/wiki/Steve_Wozniak
+
+--D'où vient l'expression "bug informatique" ?
+	-Elle vient d'un choc thermique provoquait par des insectes qui crées un dysfonctionnement de la machine.
+source: https://sites.google.com/site/lebuginformtiues/origine
