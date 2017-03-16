@@ -61,3 +61,7 @@ source: https://fr.wikipedia.org/wiki/Creative_Commons
 .Quelles sont les différences entre le Http et le Https ?
 ..* -Le "s" de Https signifie un rajout de protocole SSL a Http.
 ..*source:http://www.culture-informatique.net/cest-quoi-difference-http-https/
+
+.Qui est Richard Stallman ?
+..*-C'est un programmeur et l'initiateur du mouvement du logiciel libre.
+..*source: https://fr.wikipedia.org/wiki/Richard_Stallman
